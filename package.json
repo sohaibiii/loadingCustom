@@ -1,0 +1,55 @@
+{
+  "_from": "react-native-spring-scrollview@^2.0.23",
+  "_id": "react-native-spring-scrollview@2.0.23",
+  "_inBundle": false,
+  "_integrity": "sha512-2PTj07oqsYG0p8BMd4NzG0kKEEKqvPlI0NlQqVckhIxg7UiH4zZGG+2tn6oRg4O65F+ZsU68HNzFYE9cyCGkOQ==",
+  "_location": "/react-native-spring-scrollview",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-spring-scrollview@^2.0.23",
+    "name": "react-native-spring-scrollview",
+    "escapedName": "react-native-spring-scrollview",
+    "rawSpec": "^2.0.23",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.23"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-spring-scrollview/-/react-native-spring-scrollview-2.0.23.tgz",
+  "_shasum": "23febfc0d28c63b87dcb260ac3b6d1ad886de3ae",
+  "_spec": "react-native-spring-scrollview@^2.0.23",
+  "_where": "/home/sohaib/Desktop/Pigui-RN",
+  "author": {
+    "name": "bolan9999",
+    "email": "shanshang130@gmail.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "An cross-platform (iOS & Android) spring ScrollView",
+  "keywords": [
+    "react-native",
+    "scroll",
+    "ScrollView",
+    "iOS style",
+    "react-native-scrollview",
+    "spring",
+    "rebound",
+    "bounces",
+    "cross-platform"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-spring-scrollview",
+  "peerDependencies": {
+    "react": "^16.3.1",
+    "react-native": "^0.50.0",
+    "lottie-react-native": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.23"
+}
